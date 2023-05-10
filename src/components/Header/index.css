@@ -1,0 +1,31 @@
+/* Write your CSS code here */
+.header-can {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.items-can {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  list-style: none;
+}
+.wave-logo {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.items-head {
+  color: #12022f;
+  font-weight: bold;
+  font-size: 20px;
+}
+.img-logo-can {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

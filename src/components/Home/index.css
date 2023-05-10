@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.Home-image {
+  width: 200px;
+}
+* {
+  color: #6d396b;
+}
+.Home-can {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+.home-heading {
+  font-size: 50px;
+}
